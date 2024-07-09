@@ -1,0 +1,49 @@
+.main-container .image img {
+    height: 100%;
+    width: 100vw;
+}
+
+.main-container .btn {
+    background-color: rgba(214, 96, 96, 0.968);
+    width: 100vw;
+    height: auto;
+    margin: 10px;
+}
+
+.main-container .btn h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 3rem;
+}
+
+.main-container .btn p {
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+}
+
+.btn1, .btn2 {
+    padding: 15px 15px;
+    border: none;
+    cursor: pointer;
+    color: bisque;
+    background-color: black;
+    font-weight: bold;
+}
+
+.btn1:hover, .btn2:hover {
+    color: black;
+    background-color: transparent;
+    border: 2px solid black;
+}
+
+.main-container .des {
+    margin: 70px;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,14 @@
+.main {
+    background-color: gray;
+    color: rgb(236, 235, 232);
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 3rem;
+}
+
+p, h4 {
+    font-size: 1.2rem;
+}
